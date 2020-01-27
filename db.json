@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "username": "mare",
+      "password": "123",
+      "name":     "mico"
+    },
+    {
+      "username": "niko",
+      "password": "123",
+      "name": "mico"
+    },
+   {
+      "username": "nare",
+      "password": "1234",
+      "name": "mico"
+    }
+  ]
+}
